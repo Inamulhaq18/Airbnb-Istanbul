@@ -27,6 +27,6 @@ We will be using the follwing **libraries**
 The notebook is there within this repository named _**"Airbnbistanbul_Udacity.ipynb"**_ the notebook walks through importing the dataset from drive, exploring the dataset, to finding 
 answers to the questions listed above, the findings would help in making vital business decisions.
 
-
-
+To Better understand, my motivation and approach to answers please visit my medium blog on this repository titled "Exploring Airbnb Istanbul dataset for an investpr's interest"
+https://medium.com/@haqinamul18/exploring-airbnb-istanbul-dataset-for-a-investors-interest-11392db2efaa
 
